@@ -17,7 +17,9 @@ Pixel.java - A class provided by Richard Wicentowski and Tia Newhall (2005), and
 Usage:
 
 1.Find a set of images that contain something that you want to remove(two examples have been provided)
+
 2.Pass the directory of these images as a commandline argument with ImageDriver.java (i.e. java ImageDriver PATH)
+
 3.In the same directory, two images will be generated, one with the unwanted item removed, and one zoomed into the middle of the picture.
 
 Author:
