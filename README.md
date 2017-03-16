@@ -1,8 +1,8 @@
 ImageManipulator
 ----------------
-This is a program coded in Java that takes in a set of pictures, and removes an unwanted piece of the picture.
+This is a program coded in Java that takes in a set of pictures, and manipulates them in different ways.
 For example, let's say you took 9 pictures, and in these pictures a random person was present in different areas of the picture.
-This program would remove that person, and give you a picture that is cleared of that person!
+This program would remove that person, and give you a picture that is cleared of that person! Along with this, it would return a zoomed in version of the picture.
 
 Classes:
 
